@@ -83,16 +83,16 @@ export function showOfficialExamScan(c,{state,dbGetOne,dbPut,submit}) {
  c.querySelector('#paper-prev').onclick=()=>applyPage(page-1);
  c.querySelector('#paper-next').onclick=()=>applyPage(page+1);
  c.querySelectorAll('[data-side]').forEach(b=>b.onclick=()=>{state.paperSide=b.dataset.side;c.querySelectorAll('[data-side]').forEach(x=>x.classList.toggle('primary',x===b));applyScanSide(state.paperSide)});
- c.querySelectorAll('[data-jump]').forEach(b=>b.onclick=()=>{state.step=Number(b.dataset.jump);showOfficialExamScan(c,{state,dbGetOne,dbPut,submit})});
+ c.querySelectorAll('[data-jump]').forEach(b=>b.onclick=()=>{state.step=Number(b.dataset.jump);const position=entry?.questionPositions?.[String(state.step+1)];if(position){state.paperPage=position.page;state.paperSide=position.side;}showOfficialExamScan(c,{state,dbGetOne,dbPut,submit})});
  c.querySelectorAll('[data-choice]').forEach(b=>b.onclick=()=>{
   const index=Number(b.dataset.choice);
-  state.answers[at]=index;item.scanPage=state.paperPage;item.scannedRound=round;
+  state.answers[at]=index;item.scanPage=state.paperPage;item.scanSide=state.paperSide;item.scannedRound=round;
   c.querySelectorAll('[data-choice]').forEach(x=>x.classList.toggle('selected',x===b));
   const target=c.querySelector('[data-jump="'+at+'"]');if(target)target.classList.add('answered');
   c.querySelector('#answer-count').textContent=Object.keys(state.answers).length+' / 50개 답변';
  });
- c.querySelector('#exam-prev-q').onclick=()=>{state.step--;showOfficialExamScan(c,{state,dbGetOne,dbPut,submit})};
- c.querySelector('#exam-next-q').onclick=()=>{state.step++;showOfficialExamScan(c,{state,dbGetOne,dbPut,submit})};
+ c.querySelector('#exam-prev-q').onclick=()=>{state.step--;const position=entry?.questionPositions?.[String(state.step+1)];if(position){state.paperPage=position.page;state.paperSide=position.side}showOfficialExamScan(c,{state,dbGetOne,dbPut,submit})};
+ c.querySelector('#exam-next-q').onclick=()=>{state.step++;const position=entry?.questionPositions?.[String(state.step+1)];if(position){state.paperPage=position.page;state.paperSide=position.side}showOfficialExamScan(c,{state,dbGetOne,dbPut,submit})};
  c.querySelector('#exam-finish').onclick=async()=>{
   const remain=50-Object.keys(state.answers).length;
   if(remain&&!confirm('미응답 '+remain+'문항이 있습니다. 채점하시겠습니까?'))return;
