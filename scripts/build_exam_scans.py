@@ -40,14 +40,26 @@ FALLBACK={
   79:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=91367&idx=118544",
   80:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=91913&idx=119108"
 }
+EXTRA_SOURCES={
+  71:["https://blog.kakaocdn.net/dna/btboTu/btsI0Dt7UNG/AAAAAAAAAAAAAAAAAAAAAHW2WqG67p0UZQ_vIdqieo4Q2vE3MhpCwHAbbb8zVCuk/71%ED%9A%8C%20%ED%95%9C%EA%B5%AD%EC%82%AC_%EB%AC%B8%EC%A0%9C%EC%A7%80%28%EC%8B%AC%ED%99%94%29.pdf?allow_ip=&allow_referer=&attach=1&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1796050799&knm=tfile.pdf&signature=TybMrB2mIHHjXtYYswwxa80MCuw%3D"],
+  73:["https://blog.kakaocdn.net/dna/kPNVK/btsMyIkTqkY/AAAAAAAAAAAAAAAAAAAAAO6WOrQYcNBWUkqex7B7zV1s2nO40E0RFQyhtFpy4NiB/73%ED%9A%8C%20%EC%8B%AC%ED%99%94%20%EB%AC%B8%EC%A0%9C%EC%A7%80.pdf?allow_ip=&allow_referer=&attach=1&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1796050799&knm=tfile.pdf&signature=PSqh60jJhfDseng%2BUiObBdTQPYA%3D"],
+  80:["https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202610171048317020"]
+}
 HEADERS={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125.0 Safari/537.36","Accept":"application/pdf,application/octet-stream,*/*"}
 session=requests.Session()
 session.headers.update(HEADERS)
 index={"format":"hanneung-scanned-paper-v1","scannedPages":{},"failures":{},"copyrightNotice":"원본: 국사편찬위원회 한국사능력검정시험 시험자료실. 사진·삽화의 권리는 각 원저작자에게 있을 수 있습니다."}
+if (OUT/"index.json").exists():
+    existing=json.loads((OUT/"index.json").read_text(encoding="utf-8"))
+    index["scannedPages"].update(existing.get("scannedPages",{}))
 for round_num,ident in IDENTIFIERS.items():
+    if str(round_num) in index["scannedPages"] and (OUT/str(round_num)/"page-01.webp").exists():
+        print("SKIP previously built",round_num,flush=True)
+        continue
     urls=[]
     if ident: urls.append("https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id="+ident)
     if round_num in FALLBACK: urls.append(FALLBACK[round_num])
+    if round_num in EXTRA_SOURCES: urls.extend(EXTRA_SOURCES[round_num])
     raw=None
     for url in urls:
         try:
@@ -76,7 +88,7 @@ for round_num,ident in IDENTIFIERS.items():
                 for line in block.get("lines",[]):
                     for span in line.get("spans",[]):
                         label=span["text"].strip()
-                        m=re.match(r"^(\\d{1,2})\\.(?:\\s|$)",label)
+                        m=re.match(r"^(\d{1,2})\.(?:\s|$)",label)
                         if not m:continue
                         number=int(m.group(1))
                         x,y=span["bbox"][:2]
