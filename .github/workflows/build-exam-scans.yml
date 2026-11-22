@@ -45,18 +45,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-          RESULT: ${{ job.status }}
         run: |
           if [ -f scans/index.json ]; then
-            python - <<'PY' > /tmp/scan-report.txt
-import json
-x=json.load(open('scans/index.json'))
-print("Scan job results: " + str(len(x["scannedPages"])) + " rounds completed.\n")
-print("Available rounds: " + ", ".join(x["scannedPages"].keys()))
-print("Failures: " + str(x["failures"]))
-PY
+            python -c 'import json;x=json.load(open("scans/index.json"));print("Completed rounds: "+str(list(x["scannedPages"])));print("Failures: "+str(x["failures"]))' > /tmp/scan-report.txt
           else
-            echo "Scan job failed before producing page images." > /tmp/scan-report.txt
+            echo 'Scan job failed before producing page images.' > /tmp/scan-report.txt
           fi
           gh issue comment "$ISSUE_NUMBER" --body-file /tmp/scan-report.txt
           gh issue close "$ISSUE_NUMBER" --reason completed
