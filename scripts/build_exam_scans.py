@@ -27,7 +27,18 @@ IDENTIFIERS={
   80:"B_202610171048317020"
 }
 FALLBACK={
-  73:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=86423&idx=112854"
+  69:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=82033&idx=107655",
+  70:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=83169&idx=109179",
+  71:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=84077&idx=110340",
+  72:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=85015&idx=111300",
+  73:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=86423&idx=112854",
+  74:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=87388&idx=114006",
+  75:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=88155&idx=114993",
+  76:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=88829&idx=115879",
+  77:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=89821&idx=117061",
+  78:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=90654&idx=117935",
+  79:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=91367&idx=118544",
+  80:"https://psat.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=91913&idx=119108"
 }
 HEADERS={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125.0 Safari/537.36","Accept":"application/pdf,application/octet-stream,*/*"}
 session=requests.Session()
