@@ -2,7 +2,7 @@ name: Build Korean history exam scan pages
 on:
   workflow_dispatch:
   issues:
-    types: [opened]
+    types: [opened, edited]
   push:
     paths:
       - '.github/workflows/build-exam-scans.yml'
