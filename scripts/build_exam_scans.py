@@ -43,7 +43,7 @@ FALLBACK={
 EXTRA_SOURCES={
   71:["https://blog.kakaocdn.net/dna/btboTu/btsI0Dt7UNG/AAAAAAAAAAAAAAAAAAAAAHW2WqG67p0UZQ_vIdqieo4Q2vE3MhpCwHAbbb8zVCuk/71%ED%9A%8C%20%ED%95%9C%EA%B5%AD%EC%82%AC_%EB%AC%B8%EC%A0%9C%EC%A7%80%28%EC%8B%AC%ED%99%94%29.pdf?allow_ip=&allow_referer=&attach=1&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1796050799&knm=tfile.pdf&signature=TybMrB2mIHHjXtYYswwxa80MCuw%3D"],
   73:["https://blog.kakaocdn.net/dna/kPNVK/btsMyIkTqkY/AAAAAAAAAAAAAAAAAAAAAO6WOrQYcNBWUkqex7B7zV1s2nO40E0RFQyhtFpy4NiB/73%ED%9A%8C%20%EC%8B%AC%ED%99%94%20%EB%AC%B8%EC%A0%9C%EC%A7%80.pdf?allow_ip=&allow_referer=&attach=1&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1796050799&knm=tfile.pdf&signature=PSqh60jJhfDseng%2BUiObBdTQPYA%3D"],
-  80:["https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202610171048317020"]
+  80:["https://gosi.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=91913&idx=119108","https://land.lawschool.co.kr/nlawschool/board/Download.asp?boardName=pds&code=38&fileIdx=91913&idx=119108","https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202610171048317020"]
 }
 HEADERS={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125.0 Safari/537.36","Accept":"application/pdf,application/octet-stream,*/*"}
 session=requests.Session()
