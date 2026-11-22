@@ -1,0 +1,74 @@
+{
+  "format": "hanneung-scanned-paper-v1",
+  "scannedPages": {
+    "69": {
+      "pages": 12,
+      "template": "scans/69/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202402171202232240",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "70": {
+      "pages": 12,
+      "template": "scans/70/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202405251204104430",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "72": {
+      "pages": 12,
+      "template": "scans/72/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202410201053136300",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "74": {
+      "pages": 12,
+      "template": "scans/74/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202505241213575190",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "75": {
+      "pages": 12,
+      "template": "scans/75/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202508091211578890",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "76": {
+      "pages": 12,
+      "template": "scans/76/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202510180138534030",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "77": {
+      "pages": 12,
+      "template": "scans/77/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202602071228075140",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "78": {
+      "pages": 12,
+      "template": "scans/78/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202605230140467170",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "79": {
+      "pages": 12,
+      "template": "scans/79/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202608090227540820",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    }
+  },
+  "failures": {
+    "71": "공식 원본을 내려받지 못했습니다.",
+    "73": "공식 원본을 내려받지 못했습니다.",
+    "80": "공식 원본을 내려받지 못했습니다."
+  },
+  "copyrightNotice": "원본: 국사편찬위원회 한국사능력검정시험 시험자료실. 사진·삽화의 권리는 각 원저작자에게 있을 수 있습니다."
+}
