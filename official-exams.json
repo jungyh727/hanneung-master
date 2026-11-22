@@ -1,0 +1,3774 @@
+{
+  "format": "hanneung-official-paper-exams-v1",
+  "description": "국사편찬위원회 공식 문제지 링크와 검증된 50문항 답안지 및 문항별 배점. 저작권이 있는 문제지 자체를 재게시하지 않음.",
+  "exams": [
+    {
+      "id": "official-69",
+      "round": 69,
+      "title": "제69회 심화 · 공식 기출 50문항",
+      "year": "2024",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000029997",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-69-1",
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-69-2",
+          "num": 2,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-69-3",
+          "num": 3,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-69-4",
+          "num": 4,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-69-5",
+          "num": 5,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-69-6",
+          "num": 6,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-69-7",
+          "num": 7,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-69-8",
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-69-9",
+          "num": 9,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-69-10",
+          "num": 10,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-69-11",
+          "num": 11,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-69-12",
+          "num": 12,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-69-13",
+          "num": 13,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-69-14",
+          "num": 14,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-69-15",
+          "num": 15,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-69-16",
+          "num": 16,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-69-17",
+          "num": 17,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-69-18",
+          "num": 18,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-69-19",
+          "num": 19,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-69-20",
+          "num": 20,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-69-21",
+          "num": 21,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-69-22",
+          "num": 22,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-69-23",
+          "num": 23,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-69-24",
+          "num": 24,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-69-25",
+          "num": 25,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-69-26",
+          "num": 26,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-69-27",
+          "num": 27,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-69-28",
+          "num": 28,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-69-29",
+          "num": 29,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-69-30",
+          "num": 30,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-69-31",
+          "num": 31,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-69-32",
+          "num": 32,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-69-33",
+          "num": 33,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-69-34",
+          "num": 34,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-69-35",
+          "num": 35,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-69-36",
+          "num": 36,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-69-37",
+          "num": 37,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-69-38",
+          "num": 38,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-69-39",
+          "num": 39,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-69-40",
+          "num": 40,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-69-41",
+          "num": 41,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-69-42",
+          "num": 42,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-69-43",
+          "num": 43,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-69-44",
+          "num": 44,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-69-45",
+          "num": 45,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-69-46",
+          "num": 46,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-69-47",
+          "num": 47,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-69-48",
+          "num": 48,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-69-49",
+          "num": 49,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-69-50",
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "official-70",
+      "round": 70,
+      "title": "제70회 심화 · 공식 기출 50문항",
+      "year": "2024",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030012",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-70-1",
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-70-2",
+          "num": 2,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-3",
+          "num": 3,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-70-4",
+          "num": 4,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-70-5",
+          "num": 5,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-70-6",
+          "num": 6,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-7",
+          "num": 7,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-70-8",
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-9",
+          "num": 9,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-70-10",
+          "num": 10,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-11",
+          "num": 11,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-70-12",
+          "num": 12,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-70-13",
+          "num": 13,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-70-14",
+          "num": 14,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-70-15",
+          "num": 15,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-70-16",
+          "num": 16,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-70-17",
+          "num": 17,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-70-18",
+          "num": 18,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-70-19",
+          "num": 19,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-20",
+          "num": 20,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-21",
+          "num": 21,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-70-22",
+          "num": 22,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-70-23",
+          "num": 23,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-70-24",
+          "num": 24,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-70-25",
+          "num": 25,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-70-26",
+          "num": 26,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-70-27",
+          "num": 27,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-70-28",
+          "num": 28,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-70-29",
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-70-30",
+          "num": 30,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-31",
+          "num": 31,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-70-32",
+          "num": 32,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-70-33",
+          "num": 33,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-70-34",
+          "num": 34,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-70-35",
+          "num": 35,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-70-36",
+          "num": 36,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-70-37",
+          "num": 37,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-70-38",
+          "num": 38,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-70-39",
+          "num": 39,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-70-40",
+          "num": 40,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-70-41",
+          "num": 41,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-70-42",
+          "num": 42,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-70-43",
+          "num": 43,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-70-44",
+          "num": 44,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-70-45",
+          "num": 45,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-70-46",
+          "num": 46,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-70-47",
+          "num": 47,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-70-48",
+          "num": 48,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-70-49",
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-70-50",
+          "num": 50,
+          "answer": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "official-71",
+      "round": 71,
+      "title": "제71회 심화 · 공식 기출 50문항",
+      "year": "2024",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030032",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-71-1",
+          "num": 1,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-71-2",
+          "num": 2,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-71-3",
+          "num": 3,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-71-4",
+          "num": 4,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-71-5",
+          "num": 5,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-71-6",
+          "num": 6,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-71-7",
+          "num": 7,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-71-8",
+          "num": 8,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-71-9",
+          "num": 9,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-71-10",
+          "num": 10,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-71-11",
+          "num": 11,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-71-12",
+          "num": 12,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-71-13",
+          "num": 13,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-71-14",
+          "num": 14,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-71-15",
+          "num": 15,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-71-16",
+          "num": 16,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-71-17",
+          "num": 17,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-71-18",
+          "num": 18,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-71-19",
+          "num": 19,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-71-20",
+          "num": 20,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-71-21",
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-71-22",
+          "num": 22,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-71-23",
+          "num": 23,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-71-24",
+          "num": 24,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-71-25",
+          "num": 25,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-71-26",
+          "num": 26,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-71-27",
+          "num": 27,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-71-28",
+          "num": 28,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-71-29",
+          "num": 29,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-71-30",
+          "num": 30,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-71-31",
+          "num": 31,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-71-32",
+          "num": 32,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-71-33",
+          "num": 33,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-71-34",
+          "num": 34,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-71-35",
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-71-36",
+          "num": 36,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-71-37",
+          "num": 37,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-71-38",
+          "num": 38,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-71-39",
+          "num": 39,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-71-40",
+          "num": 40,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-71-41",
+          "num": 41,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-71-42",
+          "num": 42,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-71-43",
+          "num": 43,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-71-44",
+          "num": 44,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-71-45",
+          "num": 45,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-71-46",
+          "num": 46,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-71-47",
+          "num": 47,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-71-48",
+          "num": 48,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-71-49",
+          "num": 49,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-71-50",
+          "num": 50,
+          "answer": 2,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "official-72",
+      "round": 72,
+      "title": "제72회 심화 · 공식 기출 50문항",
+      "year": "2024",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030043",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-72-1",
+          "num": 1,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-72-2",
+          "num": 2,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-72-3",
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-72-4",
+          "num": 4,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-72-5",
+          "num": 5,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-6",
+          "num": 6,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-72-7",
+          "num": 7,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-72-8",
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-72-9",
+          "num": 9,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-72-10",
+          "num": 10,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-72-11",
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-72-12",
+          "num": 12,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-72-13",
+          "num": 13,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-72-14",
+          "num": 14,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-72-15",
+          "num": 15,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-16",
+          "num": 16,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-72-17",
+          "num": 17,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-72-18",
+          "num": 18,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-72-19",
+          "num": 19,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-72-20",
+          "num": 20,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-72-21",
+          "num": 21,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-72-22",
+          "num": 22,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-72-23",
+          "num": 23,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-72-24",
+          "num": 24,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-72-25",
+          "num": 25,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-72-26",
+          "num": 26,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-27",
+          "num": 27,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-72-28",
+          "num": 28,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-72-29",
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-30",
+          "num": 30,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-72-31",
+          "num": 31,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-72-32",
+          "num": 32,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-72-33",
+          "num": 33,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-72-34",
+          "num": 34,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-35",
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-72-36",
+          "num": 36,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-72-37",
+          "num": 37,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-72-38",
+          "num": 38,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-72-39",
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-72-40",
+          "num": 40,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-72-41",
+          "num": 41,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-42",
+          "num": 42,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-43",
+          "num": 43,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-72-44",
+          "num": 44,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-72-45",
+          "num": 45,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-72-46",
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-72-47",
+          "num": 47,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-72-48",
+          "num": 48,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-72-49",
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-72-50",
+          "num": 50,
+          "answer": 2,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "id": "official-73",
+      "round": 73,
+      "title": "제73회 심화 · 공식 기출 50문항",
+      "year": "2024",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030052",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-73-1",
+          "num": 1,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-73-2",
+          "num": 2,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-73-3",
+          "num": 3,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-73-4",
+          "num": 4,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-73-5",
+          "num": 5,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-73-6",
+          "num": 6,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-73-7",
+          "num": 7,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-73-8",
+          "num": 8,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-73-9",
+          "num": 9,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-73-10",
+          "num": 10,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-73-11",
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-73-12",
+          "num": 12,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-73-13",
+          "num": 13,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-73-14",
+          "num": 14,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-73-15",
+          "num": 15,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-73-16",
+          "num": 16,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-73-17",
+          "num": 17,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-73-18",
+          "num": 18,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-73-19",
+          "num": 19,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-73-20",
+          "num": 20,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-73-21",
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-73-22",
+          "num": 22,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-73-23",
+          "num": 23,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-73-24",
+          "num": 24,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-73-25",
+          "num": 25,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-73-26",
+          "num": 26,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-73-27",
+          "num": 27,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-73-28",
+          "num": 28,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-73-29",
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-73-30",
+          "num": 30,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-73-31",
+          "num": 31,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-73-32",
+          "num": 32,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-73-33",
+          "num": 33,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-73-34",
+          "num": 34,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-73-35",
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-73-36",
+          "num": 36,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-73-37",
+          "num": 37,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-73-38",
+          "num": 38,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-73-39",
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-73-40",
+          "num": 40,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-73-41",
+          "num": 41,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-73-42",
+          "num": 42,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-73-43",
+          "num": 43,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-73-44",
+          "num": 44,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-73-45",
+          "num": 45,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-73-46",
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-73-47",
+          "num": 47,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-73-48",
+          "num": 48,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-73-49",
+          "num": 49,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-73-50",
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "official-74",
+      "round": 74,
+      "title": "제74회 심화 · 공식 기출 50문항",
+      "year": "2025",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030069",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-74-1",
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-74-2",
+          "num": 2,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-3",
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-74-4",
+          "num": 4,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-74-5",
+          "num": 5,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-6",
+          "num": 6,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-74-7",
+          "num": 7,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-8",
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-74-9",
+          "num": 9,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-74-10",
+          "num": 10,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-74-11",
+          "num": 11,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-74-12",
+          "num": 12,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-74-13",
+          "num": 13,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-74-14",
+          "num": 14,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-74-15",
+          "num": 15,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-74-16",
+          "num": 16,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-74-17",
+          "num": 17,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-74-18",
+          "num": 18,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-74-19",
+          "num": 19,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-74-20",
+          "num": 20,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-74-21",
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-74-22",
+          "num": 22,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-74-23",
+          "num": 23,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-74-24",
+          "num": 24,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-74-25",
+          "num": 25,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-74-26",
+          "num": 26,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-74-27",
+          "num": 27,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-74-28",
+          "num": 28,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-74-29",
+          "num": 29,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-74-30",
+          "num": 30,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-74-31",
+          "num": 31,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-74-32",
+          "num": 32,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-74-33",
+          "num": 33,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-34",
+          "num": 34,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-74-35",
+          "num": 35,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-74-36",
+          "num": 36,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-74-37",
+          "num": 37,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-74-38",
+          "num": 38,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-74-39",
+          "num": 39,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-74-40",
+          "num": 40,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-74-41",
+          "num": 41,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-74-42",
+          "num": 42,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-43",
+          "num": 43,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-74-44",
+          "num": 44,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-45",
+          "num": 45,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-74-46",
+          "num": 46,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-74-47",
+          "num": 47,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-74-48",
+          "num": 48,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-49",
+          "num": 49,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-74-50",
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "official-75",
+      "round": 75,
+      "title": "제75회 심화 · 공식 기출 50문항",
+      "year": "2025",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030080",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-75-1",
+          "num": 1,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-75-2",
+          "num": 2,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-75-3",
+          "num": 3,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-4",
+          "num": 4,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-75-5",
+          "num": 5,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-6",
+          "num": 6,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-75-7",
+          "num": 7,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-75-8",
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-9",
+          "num": 9,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-75-10",
+          "num": 10,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-75-11",
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-12",
+          "num": 12,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-75-13",
+          "num": 13,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-75-14",
+          "num": 14,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-75-15",
+          "num": 15,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-16",
+          "num": 16,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-17",
+          "num": 17,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-75-18",
+          "num": 18,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-75-19",
+          "num": 19,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-75-20",
+          "num": 20,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-21",
+          "num": 21,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-22",
+          "num": 22,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-75-23",
+          "num": 23,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-24",
+          "num": 24,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-75-25",
+          "num": 25,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-75-26",
+          "num": 26,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-75-27",
+          "num": 27,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-75-28",
+          "num": 28,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-29",
+          "num": 29,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-75-30",
+          "num": 30,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-75-31",
+          "num": 31,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-75-32",
+          "num": 32,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-33",
+          "num": 33,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-75-34",
+          "num": 34,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-35",
+          "num": 35,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-36",
+          "num": 36,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-75-37",
+          "num": 37,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-75-38",
+          "num": 38,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-75-39",
+          "num": 39,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-75-40",
+          "num": 40,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-75-41",
+          "num": 41,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-75-42",
+          "num": 42,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-75-43",
+          "num": 43,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-44",
+          "num": 44,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-75-45",
+          "num": 45,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-75-46",
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-75-47",
+          "num": 47,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-75-48",
+          "num": 48,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-75-49",
+          "num": 49,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-75-50",
+          "num": 50,
+          "answer": 3,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "official-76",
+      "round": 76,
+      "title": "제76회 심화 · 공식 기출 50문항",
+      "year": "2025",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030098",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-76-1",
+          "num": 1,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-76-2",
+          "num": 2,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-76-3",
+          "num": 3,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-76-4",
+          "num": 4,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-76-5",
+          "num": 5,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-6",
+          "num": 6,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-76-7",
+          "num": 7,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-8",
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-76-9",
+          "num": 9,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-76-10",
+          "num": 10,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-76-11",
+          "num": 11,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-76-12",
+          "num": 12,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-76-13",
+          "num": 13,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-76-14",
+          "num": 14,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-15",
+          "num": 15,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-76-16",
+          "num": 16,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-76-17",
+          "num": 17,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-76-18",
+          "num": 18,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-76-19",
+          "num": 19,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-76-20",
+          "num": 20,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-76-21",
+          "num": 21,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-76-22",
+          "num": 22,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-76-23",
+          "num": 23,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-76-24",
+          "num": 24,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-25",
+          "num": 25,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-76-26",
+          "num": 26,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-76-27",
+          "num": 27,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-76-28",
+          "num": 28,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-76-29",
+          "num": 29,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-76-30",
+          "num": 30,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-76-31",
+          "num": 31,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-76-32",
+          "num": 32,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-33",
+          "num": 33,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-34",
+          "num": 34,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-76-35",
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-76-36",
+          "num": 36,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-76-37",
+          "num": 37,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-76-38",
+          "num": 38,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-39",
+          "num": 39,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-76-40",
+          "num": 40,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-76-41",
+          "num": 41,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-76-42",
+          "num": 42,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-76-43",
+          "num": 43,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-76-44",
+          "num": 44,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-76-45",
+          "num": 45,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-76-46",
+          "num": 46,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-76-47",
+          "num": 47,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-76-48",
+          "num": 48,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-76-49",
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-76-50",
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "official-77",
+      "round": 77,
+      "title": "제77회 심화 · 공식 기출 50문항",
+      "year": "2026",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030110",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-77-1",
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-77-2",
+          "num": 2,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-77-3",
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-77-4",
+          "num": 4,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-5",
+          "num": 5,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-77-6",
+          "num": 6,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-77-7",
+          "num": 7,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-77-8",
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-77-9",
+          "num": 9,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-77-10",
+          "num": 10,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-11",
+          "num": 11,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-12",
+          "num": 12,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-77-13",
+          "num": 13,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-77-14",
+          "num": 14,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-77-15",
+          "num": 15,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-77-16",
+          "num": 16,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-17",
+          "num": 17,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-77-18",
+          "num": 18,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-77-19",
+          "num": 19,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-77-20",
+          "num": 20,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-77-21",
+          "num": 21,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-22",
+          "num": 22,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-77-23",
+          "num": 23,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-77-24",
+          "num": 24,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-77-25",
+          "num": 25,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-77-26",
+          "num": 26,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-27",
+          "num": 27,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-77-28",
+          "num": 28,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-77-29",
+          "num": 29,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-30",
+          "num": 30,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-77-31",
+          "num": 31,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-77-32",
+          "num": 32,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-77-33",
+          "num": 33,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-77-34",
+          "num": 34,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-77-35",
+          "num": 35,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-77-36",
+          "num": 36,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-77-37",
+          "num": 37,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-77-38",
+          "num": 38,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-77-39",
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-77-40",
+          "num": 40,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-77-41",
+          "num": 41,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-77-42",
+          "num": 42,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-77-43",
+          "num": 43,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-77-44",
+          "num": 44,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-77-45",
+          "num": 45,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-77-46",
+          "num": 46,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-77-47",
+          "num": 47,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-77-48",
+          "num": 48,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-77-49",
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-77-50",
+          "num": 50,
+          "answer": 2,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "official-78",
+      "round": 78,
+      "title": "제78회 심화 · 공식 기출 50문항",
+      "year": "2026",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030119",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-78-1",
+          "num": 1,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-78-2",
+          "num": 2,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-78-3",
+          "num": 3,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-78-4",
+          "num": 4,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-78-5",
+          "num": 5,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-6",
+          "num": 6,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-7",
+          "num": 7,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-78-8",
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-78-9",
+          "num": 9,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-78-10",
+          "num": 10,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-11",
+          "num": 11,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-12",
+          "num": 12,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-78-13",
+          "num": 13,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-78-14",
+          "num": 14,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-78-15",
+          "num": 15,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-16",
+          "num": 16,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-78-17",
+          "num": 17,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-78-18",
+          "num": 18,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-19",
+          "num": 19,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-78-20",
+          "num": 20,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-78-21",
+          "num": 21,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-78-22",
+          "num": 22,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-23",
+          "num": 23,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-78-24",
+          "num": 24,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-78-25",
+          "num": 25,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-78-26",
+          "num": 26,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-78-27",
+          "num": 27,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-28",
+          "num": 28,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-29",
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-78-30",
+          "num": 30,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-78-31",
+          "num": 31,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-32",
+          "num": 32,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-78-33",
+          "num": 33,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-34",
+          "num": 34,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-78-35",
+          "num": 35,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-78-36",
+          "num": 36,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-78-37",
+          "num": 37,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-78-38",
+          "num": 38,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-39",
+          "num": 39,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-40",
+          "num": 40,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-78-41",
+          "num": 41,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-42",
+          "num": 42,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-78-43",
+          "num": 43,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-78-44",
+          "num": 44,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-78-45",
+          "num": 45,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-78-46",
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-47",
+          "num": 47,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-78-48",
+          "num": 48,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-78-49",
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-78-50",
+          "num": 50,
+          "answer": 4,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "official-79",
+      "round": 79,
+      "title": "제79회 심화 · 공식 기출 50문항",
+      "year": "2026",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030131",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-79-1",
+          "num": 1,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-79-2",
+          "num": 2,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-79-3",
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-79-4",
+          "num": 4,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-79-5",
+          "num": 5,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-79-6",
+          "num": 6,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-79-7",
+          "num": 7,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-79-8",
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-79-9",
+          "num": 9,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-10",
+          "num": 10,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-79-11",
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-12",
+          "num": 12,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-13",
+          "num": 13,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-79-14",
+          "num": 14,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-79-15",
+          "num": 15,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-79-16",
+          "num": 16,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "id": "official-79-17",
+          "num": 17,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-79-18",
+          "num": 18,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-79-19",
+          "num": 19,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-20",
+          "num": 20,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-79-21",
+          "num": 21,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-79-22",
+          "num": 22,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-79-23",
+          "num": 23,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-79-24",
+          "num": 24,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-79-25",
+          "num": 25,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-79-26",
+          "num": 26,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-79-27",
+          "num": 27,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-79-28",
+          "num": 28,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-79-29",
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-79-30",
+          "num": 30,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-79-31",
+          "num": 31,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-79-32",
+          "num": 32,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-79-33",
+          "num": 33,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-79-34",
+          "num": 34,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-79-35",
+          "num": 35,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-79-36",
+          "num": 36,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-79-37",
+          "num": 37,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-79-38",
+          "num": 38,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-39",
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-40",
+          "num": 40,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-79-41",
+          "num": 41,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-79-42",
+          "num": 42,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-79-43",
+          "num": 43,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-79-44",
+          "num": 44,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-79-45",
+          "num": 45,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-46",
+          "num": 46,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-79-47",
+          "num": 47,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-79-48",
+          "num": 48,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-79-49",
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-79-50",
+          "num": 50,
+          "answer": 2,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "id": "official-80",
+      "round": 80,
+      "title": "제80회 심화 · 공식 기출 50문항",
+      "year": "2026",
+      "level": "advanced",
+      "mode": "official-paper-answer-sheet",
+      "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030154",
+      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "questions": [
+        {
+          "id": "official-80-1",
+          "num": 1,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-80-2",
+          "num": 2,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-80-3",
+          "num": 3,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-80-4",
+          "num": 4,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-80-5",
+          "num": 5,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-80-6",
+          "num": 6,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "id": "official-80-7",
+          "num": 7,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-80-8",
+          "num": 8,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-80-9",
+          "num": 9,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-80-10",
+          "num": 10,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-80-11",
+          "num": 11,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "id": "official-80-12",
+          "num": 12,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-80-13",
+          "num": 13,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-80-14",
+          "num": 14,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-80-15",
+          "num": 15,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-16",
+          "num": 16,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-80-17",
+          "num": 17,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-80-18",
+          "num": 18,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-80-19",
+          "num": 19,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-80-20",
+          "num": 20,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-80-21",
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-22",
+          "num": 22,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-80-23",
+          "num": 23,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-80-24",
+          "num": 24,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-80-25",
+          "num": 25,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-80-26",
+          "num": 26,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-80-27",
+          "num": 27,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-80-28",
+          "num": 28,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "id": "official-80-29",
+          "num": 29,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-80-30",
+          "num": 30,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-80-31",
+          "num": 31,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-80-32",
+          "num": 32,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-33",
+          "num": 33,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "id": "official-80-34",
+          "num": 34,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-35",
+          "num": 35,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "id": "official-80-36",
+          "num": 36,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-37",
+          "num": 37,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "id": "official-80-38",
+          "num": 38,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-80-39",
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-80-40",
+          "num": 40,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "id": "official-80-41",
+          "num": 41,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "id": "official-80-42",
+          "num": 42,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "id": "official-80-43",
+          "num": 43,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "id": "official-80-44",
+          "num": 44,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "id": "official-80-45",
+          "num": 45,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "id": "official-80-46",
+          "num": 46,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-47",
+          "num": 47,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-48",
+          "num": 48,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "id": "official-80-49",
+          "num": 49,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "id": "official-80-50",
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    }
+  ]
+}
