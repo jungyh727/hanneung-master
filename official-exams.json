@@ -1,6 +1,6 @@
 {
   "format": "hanneung-official-paper-exams-v1",
-  "description": "국사편찬위원회 공식 문제지 링크와 검증된 50문항 답안지 및 문항별 배점. 저작권이 있는 문제지 자체를 재게시하지 않음.",
+  "description": "69~80회 국사편찬위원회 공식 기출 50문항씩의 답안 및 원본 시험지 다운로드 주소. PDF 스캔은 내장 뷰어로 표시하며, 파일 접근 제한 시 사용자 기기의 원본 PDF를 사용할 수 있음.",
   "exams": [
     {
       "id": "official-69",
@@ -8,9 +8,9 @@
       "title": "제69회 심화 · 공식 기출 50문항",
       "year": "2024",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000029997",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -314,7 +314,9 @@
           "answer": 4,
           "points": 3
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202402171202232240",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-70",
@@ -322,9 +324,9 @@
       "title": "제70회 심화 · 공식 기출 50문항",
       "year": "2024",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030012",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -628,7 +630,9 @@
           "answer": 1,
           "points": 2
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202405251204104430",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-71",
@@ -636,9 +640,9 @@
       "title": "제71회 심화 · 공식 기출 50문항",
       "year": "2024",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030032",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -942,7 +946,9 @@
           "answer": 2,
           "points": 2
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202408101138402030",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-72",
@@ -950,9 +956,9 @@
       "title": "제72회 심화 · 공식 기출 50문항",
       "year": "2024",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030043",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -1256,7 +1262,9 @@
           "answer": 2,
           "points": 1
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202410201053136300",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-73",
@@ -1264,9 +1272,9 @@
       "title": "제73회 심화 · 공식 기출 50문항",
       "year": "2024",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030052",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -1570,7 +1578,9 @@
           "answer": 4,
           "points": 3
         }
-      ]
+      ],
+      "pdfUrl": null,
+      "pdfStatus": "download-unverified"
     },
     {
       "id": "official-74",
@@ -1578,9 +1588,9 @@
       "title": "제74회 심화 · 공식 기출 50문항",
       "year": "2025",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030069",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -1884,7 +1894,9 @@
           "answer": 4,
           "points": 3
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202505241213575190",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-75",
@@ -1892,9 +1904,9 @@
       "title": "제75회 심화 · 공식 기출 50문항",
       "year": "2025",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030080",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -2198,7 +2210,9 @@
           "answer": 3,
           "points": 2
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202508091211578890",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-76",
@@ -2206,9 +2220,9 @@
       "title": "제76회 심화 · 공식 기출 50문항",
       "year": "2025",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030098",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -2512,7 +2526,9 @@
           "answer": 4,
           "points": 3
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202510180138534030",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-77",
@@ -2520,9 +2536,9 @@
       "title": "제77회 심화 · 공식 기출 50문항",
       "year": "2026",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030110",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -2826,7 +2842,9 @@
           "answer": 2,
           "points": 2
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202602071228075140",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-78",
@@ -2834,9 +2852,9 @@
       "title": "제78회 심화 · 공식 기출 50문항",
       "year": "2026",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030119",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -3140,7 +3158,9 @@
           "answer": 4,
           "points": 2
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202605230140467170",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-79",
@@ -3148,9 +3168,9 @@
       "title": "제79회 심화 · 공식 기출 50문항",
       "year": "2026",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030131",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -3454,7 +3474,9 @@
           "answer": 2,
           "points": 3
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202608090227540820",
+      "pdfStatus": "official-download"
     },
     {
       "id": "official-80",
@@ -3462,9 +3484,9 @@
       "title": "제80회 심화 · 공식 기출 50문항",
       "year": "2026",
       "level": "advanced",
-      "mode": "official-paper-answer-sheet",
+      "mode": "onscreen-scanned-paper",
       "officialPage": "https://www.historyexam.go.kr/pst/view.do?bbs=dat&pst_sno=1000030154",
-      "instruction": "공식 문제지 PDF를 열어 원문 자료·그림·선지를 확인하면서 앱 답안지에 표시하세요.",
+      "instruction": "앱 화면에서 공식 문제지 스캔을 보고, 아래 ①~⑤ 중 답을 고르세요. 브라우저 PDF 렌더링이 안 되면 원본 PDF 파일을 불러올 수 있습니다.",
       "questionCount": 50,
       "totalPoints": 100,
       "questions": [
@@ -3768,7 +3790,9 @@
           "answer": 4,
           "points": 3
         }
-      ]
+      ],
+      "pdfUrl": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202610171048317020",
+      "pdfStatus": "official-download"
     }
   ]
 }
