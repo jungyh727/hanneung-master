@@ -63,12 +63,431 @@
       "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202608090227540820",
       "questionPositions": {},
       "locatedQuestions": 0
+    },
+    "71": {
+      "pages": 12,
+      "template": "scans/71/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202408101138402030",
+      "questionPositions": {
+        "1": {
+          "page": 10,
+          "side": "left"
+        },
+        "3": {
+          "page": 1,
+          "side": "left"
+        },
+        "2": {
+          "page": 10,
+          "side": "left"
+        },
+        "4": {
+          "page": 1,
+          "side": "right"
+        },
+        "7": {
+          "page": 2,
+          "side": "right"
+        },
+        "6": {
+          "page": 2,
+          "side": "left"
+        },
+        "8": {
+          "page": 2,
+          "side": "right"
+        },
+        "5": {
+          "page": 2,
+          "side": "left"
+        },
+        "9": {
+          "page": 3,
+          "side": "left"
+        },
+        "12": {
+          "page": 3,
+          "side": "right"
+        },
+        "11": {
+          "page": 3,
+          "side": "left"
+        },
+        "13": {
+          "page": 3,
+          "side": "right"
+        },
+        "10": {
+          "page": 3,
+          "side": "left"
+        },
+        "15": {
+          "page": 4,
+          "side": "left"
+        },
+        "14": {
+          "page": 4,
+          "side": "left"
+        },
+        "16": {
+          "page": 4,
+          "side": "right"
+        },
+        "17": {
+          "page": 4,
+          "side": "right"
+        },
+        "19": {
+          "page": 5,
+          "side": "left"
+        },
+        "20": {
+          "page": 5,
+          "side": "right"
+        },
+        "18": {
+          "page": 5,
+          "side": "left"
+        },
+        "21": {
+          "page": 5,
+          "side": "right"
+        },
+        "22": {
+          "page": 6,
+          "side": "left"
+        },
+        "23": {
+          "page": 6,
+          "side": "left"
+        },
+        "25": {
+          "page": 6,
+          "side": "right"
+        },
+        "24": {
+          "page": 6,
+          "side": "right"
+        },
+        "26": {
+          "page": 7,
+          "side": "left"
+        },
+        "28": {
+          "page": 7,
+          "side": "right"
+        },
+        "29": {
+          "page": 7,
+          "side": "right"
+        },
+        "27": {
+          "page": 7,
+          "side": "left"
+        },
+        "31": {
+          "page": 8,
+          "side": "left"
+        },
+        "32": {
+          "page": 8,
+          "side": "right"
+        },
+        "33": {
+          "page": 8,
+          "side": "right"
+        },
+        "30": {
+          "page": 8,
+          "side": "left"
+        },
+        "34": {
+          "page": 9,
+          "side": "left"
+        },
+        "37": {
+          "page": 9,
+          "side": "right"
+        },
+        "36": {
+          "page": 9,
+          "side": "left"
+        },
+        "38": {
+          "page": 9,
+          "side": "right"
+        },
+        "35": {
+          "page": 9,
+          "side": "left"
+        },
+        "40": {
+          "page": 10,
+          "side": "left"
+        },
+        "39": {
+          "page": 10,
+          "side": "left"
+        },
+        "42": {
+          "page": 10,
+          "side": "right"
+        },
+        "41": {
+          "page": 10,
+          "side": "right"
+        },
+        "43": {
+          "page": 11,
+          "side": "left"
+        },
+        "45": {
+          "page": 11,
+          "side": "right"
+        },
+        "44": {
+          "page": 11,
+          "side": "left"
+        },
+        "46": {
+          "page": 11,
+          "side": "right"
+        },
+        "47": {
+          "page": 12,
+          "side": "left"
+        },
+        "49": {
+          "page": 12,
+          "side": "right"
+        },
+        "48": {
+          "page": 12,
+          "side": "left"
+        },
+        "50": {
+          "page": 12,
+          "side": "right"
+        }
+      },
+      "locatedQuestions": 50
+    },
+    "73": {
+      "pages": 12,
+      "template": "scans/73/page-{page}.webp",
+      "source": "https://blog.kakaocdn.net/dna/kPNVK/btsMyIkTqkY/AAAAAAAAAAAAAAAAAAAAAO6WOrQYcNBWUkqex7B7zV1s2nO40E0RFQyhtFpy4NiB/73%ED%9A%8C%20%EC%8B%AC%ED%99%94%20%EB%AC%B8%EC%A0%9C%EC%A7%80.pdf?allow_ip=&allow_referer=&attach=1&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1796050799&knm=tfile.pdf&signature=PSqh60jJhfDseng%2BUiObBdTQPYA%3D",
+      "questionPositions": {},
+      "locatedQuestions": 0
+    },
+    "80": {
+      "pages": 12,
+      "template": "scans/80/page-{page}.webp",
+      "source": "https://www.historyexam.go.kr/atchFile/FileDown.do?atch_file_id=B_202610171048317020",
+      "questionPositions": {
+        "2": {
+          "page": 1,
+          "side": "left"
+        },
+        "1": {
+          "page": 1,
+          "side": "left"
+        },
+        "3": {
+          "page": 7,
+          "side": "right"
+        },
+        "4": {
+          "page": 1,
+          "side": "right"
+        },
+        "5": {
+          "page": 2,
+          "side": "left"
+        },
+        "8": {
+          "page": 2,
+          "side": "right"
+        },
+        "6": {
+          "page": 2,
+          "side": "left"
+        },
+        "9": {
+          "page": 2,
+          "side": "right"
+        },
+        "7": {
+          "page": 2,
+          "side": "left"
+        },
+        "12": {
+          "page": 3,
+          "side": "right"
+        },
+        "13": {
+          "page": 7,
+          "side": "right"
+        },
+        "11": {
+          "page": 3,
+          "side": "left"
+        },
+        "10": {
+          "page": 3,
+          "side": "left"
+        },
+        "15": {
+          "page": 4,
+          "side": "left"
+        },
+        "16": {
+          "page": 4,
+          "side": "right"
+        },
+        "17": {
+          "page": 4,
+          "side": "right"
+        },
+        "14": {
+          "page": 4,
+          "side": "left"
+        },
+        "19": {
+          "page": 5,
+          "side": "left"
+        },
+        "18": {
+          "page": 5,
+          "side": "left"
+        },
+        "20": {
+          "page": 5,
+          "side": "right"
+        },
+        "21": {
+          "page": 5,
+          "side": "right"
+        },
+        "22": {
+          "page": 6,
+          "side": "left"
+        },
+        "23": {
+          "page": 6,
+          "side": "left"
+        },
+        "26": {
+          "page": 6,
+          "side": "right"
+        },
+        "24": {
+          "page": 6,
+          "side": "left"
+        },
+        "25": {
+          "page": 6,
+          "side": "right"
+        },
+        "27": {
+          "page": 7,
+          "side": "left"
+        },
+        "28": {
+          "page": 7,
+          "side": "left"
+        },
+        "30": {
+          "page": 7,
+          "side": "right"
+        },
+        "29": {
+          "page": 7,
+          "side": "right"
+        },
+        "32": {
+          "page": 8,
+          "side": "left"
+        },
+        "31": {
+          "page": 8,
+          "side": "left"
+        },
+        "33": {
+          "page": 8,
+          "side": "right"
+        },
+        "34": {
+          "page": 8,
+          "side": "right"
+        },
+        "35": {
+          "page": 9,
+          "side": "left"
+        },
+        "36": {
+          "page": 9,
+          "side": "left"
+        },
+        "37": {
+          "page": 9,
+          "side": "right"
+        },
+        "38": {
+          "page": 9,
+          "side": "right"
+        },
+        "39": {
+          "page": 10,
+          "side": "left"
+        },
+        "42": {
+          "page": 10,
+          "side": "right"
+        },
+        "40": {
+          "page": 10,
+          "side": "left"
+        },
+        "41": {
+          "page": 10,
+          "side": "right"
+        },
+        "45": {
+          "page": 11,
+          "side": "right"
+        },
+        "44": {
+          "page": 11,
+          "side": "left"
+        },
+        "46": {
+          "page": 11,
+          "side": "right"
+        },
+        "43": {
+          "page": 11,
+          "side": "left"
+        },
+        "47": {
+          "page": 12,
+          "side": "left"
+        },
+        "48": {
+          "page": 12,
+          "side": "left"
+        },
+        "50": {
+          "page": 12,
+          "side": "right"
+        },
+        "49": {
+          "page": 12,
+          "side": "right"
+        }
+      },
+      "locatedQuestions": 50
     }
   },
-  "failures": {
-    "71": "공식 원본을 내려받지 못했습니다.",
-    "73": "공식 원본을 내려받지 못했습니다.",
-    "80": "공식 원본을 내려받지 못했습니다."
-  },
+  "failures": {},
   "copyrightNotice": "원본: 국사편찬위원회 한국사능력검정시험 시험자료실. 사진·삽화의 권리는 각 원저작자에게 있을 수 있습니다."
 }
