@@ -252,252 +252,277 @@
   {
     "id": "base-026",
     "era": "고려",
-    "period": "초기",
+    "period": "전기",
     "domain": "정치",
     "subject": "태조 왕건",
     "fact": "훈요 10조를 남기고 역분전을 지급하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "초기"
   },
   {
     "id": "base-027",
     "era": "고려",
-    "period": "초기",
+    "period": "전기",
     "domain": "정치",
     "subject": "광종",
     "fact": "노비안검법을 시행하고 과거제를 도입하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "초기"
   },
   {
     "id": "base-028",
     "era": "고려",
-    "period": "초기",
+    "period": "전기",
     "domain": "경제",
     "subject": "경종",
     "fact": "전시과를 시행하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "초기"
   },
   {
     "id": "base-029",
     "era": "고려",
-    "period": "초기",
+    "period": "전기",
     "domain": "정치",
     "subject": "성종",
     "fact": "12목을 설치하고 국자감을 설립하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "초기"
   },
   {
     "id": "base-030",
     "era": "고려",
-    "period": "초기",
+    "period": "전기",
     "domain": "대외관계",
     "subject": "서희",
     "fact": "거란과의 외교 담판으로 강동 6주를 확보하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "초기"
   },
   {
     "id": "base-031",
     "era": "고려",
-    "period": "초기",
+    "period": "전기",
     "domain": "대외관계",
     "subject": "강감찬",
     "fact": "거란의 3차 침입에서 귀주대첩을 이끌었다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "초기"
   },
   {
     "id": "base-032",
     "era": "고려",
-    "period": "문벌귀족기",
+    "period": "전기",
     "domain": "문화",
     "subject": "최충",
     "fact": "9재 학당인 문헌공도를 세웠다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "문벌귀족기"
   },
   {
     "id": "base-033",
     "era": "고려",
-    "period": "문벌귀족기",
+    "period": "전기",
     "domain": "경제",
     "subject": "숙종",
     "fact": "해동통보와 은병을 발행하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "문벌귀족기"
   },
   {
     "id": "base-034",
     "era": "고려",
-    "period": "문벌귀족기",
+    "period": "전기",
     "domain": "대외관계",
     "subject": "윤관",
     "fact": "별무반을 이끌어 여진을 정벌하고 동북 9성을 개척하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "문벌귀족기"
   },
   {
     "id": "base-035",
     "era": "고려",
-    "period": "문벌귀족기",
+    "period": "전기",
     "domain": "정치",
     "subject": "인종",
     "fact": "이자겸의 난과 묘청의 난을 겪었다",
     "source": "2026 벼락치기 요약노트",
-    "page": 8
+    "page": 8,
+    "subperiod": "문벌귀족기"
   },
   {
     "id": "base-036",
     "era": "고려",
-    "period": "무신집권기",
+    "period": "중기",
     "domain": "정치",
     "subject": "최충헌",
     "fact": "교정도감을 설치하고 봉사 10조를 올렸다",
     "source": "2026 벼락치기 요약노트",
-    "page": 9
+    "page": 9,
+    "subperiod": "무신집권기"
   },
   {
     "id": "base-037",
     "era": "고려",
-    "period": "무신집권기",
+    "period": "중기",
     "domain": "정치",
     "subject": "최우",
     "fact": "정방을 설치하고 강화도로 천도하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 9
+    "page": 9,
+    "subperiod": "무신집권기"
   },
   {
     "id": "base-038",
     "era": "고려",
-    "period": "무신집권기",
+    "period": "중기",
     "domain": "사회",
     "subject": "만적의 난",
     "fact": "천민 신분 해방을 주장하며 일어났다",
     "source": "2026 벼락치기 요약노트",
-    "page": 9
+    "page": 9,
+    "subperiod": "무신집권기"
   },
   {
     "id": "base-039",
     "era": "고려",
-    "period": "무신집권기",
+    "period": "중기",
     "domain": "대외관계",
     "subject": "김윤후",
     "fact": "처인성 전투와 충주성 전투에서 활약하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 9
+    "page": 9,
+    "subperiod": "무신집권기"
   },
   {
     "id": "base-040",
     "era": "고려",
-    "period": "원 간섭기",
+    "period": "후기",
     "domain": "정치",
     "subject": "충목왕",
     "fact": "정치도감을 통해 개혁을 시도하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 9
+    "page": 9,
+    "subperiod": "원 간섭기"
   },
   {
     "id": "base-041",
     "era": "고려",
-    "period": "원 간섭기",
+    "period": "후기",
     "domain": "정치",
     "subject": "공민왕",
     "fact": "쌍성총관부를 탈환하고 전민변정도감을 설치하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 9
+    "page": 9,
+    "subperiod": "원 간섭기"
   },
   {
     "id": "base-042",
     "era": "고려",
-    "period": "원 간섭기",
+    "period": "후기",
     "domain": "문화",
     "subject": "안향",
     "fact": "원에서 성리학을 수용하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 9
+    "page": 9,
+    "subperiod": "원 간섭기"
   },
   {
     "id": "base-043",
     "era": "고려",
-    "period": "말기",
+    "period": "후기",
     "domain": "대외관계",
     "subject": "최무선",
     "fact": "화포를 제작하고 진포대첩에서 활약하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 10
+    "page": 10,
+    "subperiod": "말기"
   },
   {
     "id": "base-044",
     "era": "고려",
-    "period": "말기",
+    "period": "후기",
     "domain": "대외관계",
     "subject": "이성계",
     "fact": "황산 전투에서 왜구를 격퇴하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 10
+    "page": 10,
+    "subperiod": "말기"
   },
   {
     "id": "base-045",
     "era": "고려",
-    "period": "시기 미분류",
+    "period": "전기",
     "domain": "문화",
     "subject": "김부식",
     "fact": "삼국사기를 편찬하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 11
+    "page": 11,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-046",
     "era": "고려",
-    "period": "시기 미분류",
+    "period": "후기",
     "domain": "문화",
     "subject": "일연",
     "fact": "삼국유사를 저술하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 11
+    "page": 11,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-047",
     "era": "고려",
-    "period": "시기 미분류",
+    "period": "중기",
     "domain": "문화",
     "subject": "이규보",
     "fact": "동명왕편을 저술하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 11
+    "page": 11,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-048",
     "era": "고려",
-    "period": "시기 미분류",
+    "period": "후기",
     "domain": "문화",
     "subject": "이승휴",
     "fact": "제왕운기를 저술하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 11
+    "page": 11,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-049",
     "era": "고려",
-    "period": "시기 미분류",
+    "period": "전기",
     "domain": "문화",
     "subject": "의천",
     "fact": "천태종을 개창하고 교관겸수를 제시하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 11
+    "page": 11,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-050",
     "era": "고려",
-    "period": "시기 미분류",
+    "period": "중기",
     "domain": "문화",
     "subject": "지눌",
     "fact": "정혜쌍수와 돈오점수를 주장하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 11
+    "page": 11,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-051",
@@ -582,62 +607,68 @@
   {
     "id": "base-059",
     "era": "조선",
-    "period": "후기",
+    "period": "중기",
     "domain": "대외관계",
     "subject": "선조",
     "fact": "임진왜란을 겪고 훈련도감을 설치하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 13
+    "page": 13,
+    "subperiod": "후기"
   },
   {
     "id": "base-060",
     "era": "조선",
-    "period": "후기",
+    "period": "중기",
     "domain": "경제",
     "subject": "광해군",
     "fact": "대동법을 실시하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 14
+    "page": 14,
+    "subperiod": "후기"
   },
   {
     "id": "base-061",
     "era": "조선",
-    "period": "후기",
+    "period": "중기",
     "domain": "대외관계",
     "subject": "인조",
     "fact": "정묘호란과 병자호란을 겪었다",
     "source": "2026 벼락치기 요약노트",
-    "page": 14
+    "page": 14,
+    "subperiod": "후기"
   },
   {
     "id": "base-062",
     "era": "조선",
-    "period": "후기",
+    "period": "중기",
     "domain": "대외관계",
     "subject": "효종",
     "fact": "북벌을 추진하고 나선정벌에 조총 부대를 파견하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 14
+    "page": 14,
+    "subperiod": "후기"
   },
   {
     "id": "base-063",
     "era": "조선",
-    "period": "후기",
+    "period": "중기",
     "domain": "정치",
     "subject": "현종",
     "fact": "두 차례 예송 논쟁을 겪었다",
     "source": "2026 벼락치기 요약노트",
-    "page": 14
+    "page": 14,
+    "subperiod": "후기"
   },
   {
     "id": "base-064",
     "era": "조선",
-    "period": "후기",
+    "period": "중기",
     "domain": "정치",
     "subject": "숙종",
     "fact": "환국 정치가 전개되고 금위영을 설치하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 14
+    "page": 14,
+    "subperiod": "후기"
   },
   {
     "id": "base-065",
@@ -682,42 +713,46 @@
   {
     "id": "base-069",
     "era": "조선",
-    "period": "시기 미분류",
+    "period": "중기",
     "domain": "문화",
     "subject": "허준",
     "fact": "동의보감을 완성하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 16
+    "page": 16,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-070",
     "era": "조선",
-    "period": "시기 미분류",
+    "period": "후기",
     "domain": "문화",
     "subject": "정선",
     "fact": "금강전도와 인왕제색도를 그렸다",
     "source": "2026 벼락치기 요약노트",
-    "page": 16
+    "page": 16,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-071",
     "era": "조선",
-    "period": "시기 미분류",
+    "period": "후기",
     "domain": "문화",
     "subject": "김정희",
     "fact": "세한도를 남기고 추사체를 발전시켰다",
     "source": "2026 벼락치기 요약노트",
-    "page": 16
+    "page": 16,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-072",
     "era": "조선",
-    "period": "시기 미분류",
+    "period": "후기",
     "domain": "문화",
     "subject": "김정호",
     "fact": "대동여지도를 제작하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 16
+    "page": 16,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-073",
@@ -852,22 +887,24 @@
   {
     "id": "base-086",
     "era": "개항기",
-    "period": "시기 미분류",
+    "period": "개화정책",
     "domain": "문화",
     "subject": "원산학사",
     "fact": "1883년에 설립된 근대식 사립학교이다",
     "source": "2026 벼락치기 요약노트",
-    "page": 20
+    "page": 20,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-087",
     "era": "개항기",
-    "period": "시기 미분류",
+    "period": "개화정책",
     "domain": "문화",
     "subject": "육영공원",
     "fact": "1886년에 설립된 근대식 관립학교이다",
     "source": "2026 벼락치기 요약노트",
-    "page": 20
+    "page": 20,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-088",
@@ -982,32 +1019,35 @@
   {
     "id": "base-099",
     "era": "일제강점기",
-    "period": "시기 미분류",
+    "period": "1930년대",
     "domain": "문화",
     "subject": "신채호",
     "fact": "독사신론과 조선상고사를 집필하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 23
+    "page": 23,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-100",
     "era": "일제강점기",
-    "period": "시기 미분류",
+    "period": "1920년대",
     "domain": "문화",
     "subject": "박은식",
     "fact": "한국통사와 한국독립운동지혈사를 저술하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 23
+    "page": 23,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-101",
     "era": "일제강점기",
-    "period": "시기 미분류",
+    "period": "1930년대",
     "domain": "문화",
     "subject": "백남운",
     "fact": "조선사회경제사를 저술하였다",
     "source": "2026 벼락치기 요약노트",
-    "page": 23
+    "page": 23,
+    "subperiod": "시기 미분류"
   },
   {
     "id": "base-102",
