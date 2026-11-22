@@ -3,7 +3,7 @@
 PDFs are used as the source; this repo only publishes rendered compressed pages.
 """
 from pathlib import Path
-import json, time
+import json, time, re
 import requests
 import fitz
 from PIL import Image
@@ -40,7 +40,7 @@ for round_num,ident in IDENTIFIERS.items():
     raw=None
     for url in urls:
         try:
-            response=session.get(url,timeout=110)
+            response=session.get(url,timeout=35)
             print(round_num,response.status_code,len(response.content),response.headers.get("Content-Type"),flush=True)
             response.raise_for_status()
             if not response.content.startswith(b"%PDF"):
@@ -57,6 +57,20 @@ for round_num,ident in IDENTIFIERS.items():
         document=fitz.open(stream=raw,filetype="pdf")
         if len(document)<10 or len(document)>30:
             raise ValueError(f"Unexpected PDF page count: {len(document)}")
+        # Identify page and column for each numbered item from the source layout.
+        # If the PDF is image-only, no inferred mapping is fabricated; manual page selection remains available.
+        question_positions={}
+        for pi,page in enumerate(document):
+            for block in page.get_text("dict").get("blocks",[]):
+                for line in block.get("lines",[]):
+                    for span in line.get("spans",[]):
+                        label=span["text"].strip()
+                        m=re.match(r"^(\\d{1,2})\\.(?:\\s|$)",label)
+                        if not m:continue
+                        number=int(m.group(1))
+                        x,y=span["bbox"][:2]
+                        if 1<=number<=50 and ((20<x<85) or (350<x<430)) and 30<y<page.rect.height-50:
+                            question_positions[str(number)]={"page":pi+1,"side":"left" if x<page.rect.width/2 else "right"}
         folder=OUT/str(round_num)
         folder.mkdir(exist_ok=True)
         for old in folder.glob("page-*.webp"):old.unlink()
@@ -65,7 +79,7 @@ for round_num,ident in IDENTIFIERS.items():
             image=Image.frombytes("RGB",[pix.width,pix.height],pix.samples)
             target=folder/f"page-{pi+1:02d}.webp"
             image.save(target,format="WEBP",quality=75,method=5)
-        index["scannedPages"][str(round_num)]={"pages":len(document),"template":f"scans/{round_num}/page-{{page}}.webp","source":url}
+        index["scannedPages"][str(round_num)]={"pages":len(document),"template":f"scans/{round_num}/page-{{page}}.webp","source":url,"questionPositions":question_positions,"locatedQuestions":len(question_positions)}
         print("SCANNED",round_num,len(document),"pages",flush=True)
     except Exception as ex:
         index["failures"][str(round_num)]=str(ex)
