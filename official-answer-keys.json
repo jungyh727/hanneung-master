@@ -1,0 +1,3126 @@
+{
+  "format": "hanneung-official-answer-keys-v1",
+  "description": "원본 PDF 정답표에서 검증한 정답 번호(0부터 시작) 및 문항 배점. 문제 지문·선지는 포함하지 않음.",
+  "exams": [
+    {
+      "round": 69,
+      "title": "제69회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "69회 한국사_정답표(심화).pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 4,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 5,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 7,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 11,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 12,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 13,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 14,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 15,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 17,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 18,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 20,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 25,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 26,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 27,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 28,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 29,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 30,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 31,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 32,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 34,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 35,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 36,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 37,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 38,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 39,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 40,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 41,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 42,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 43,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 46,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 47,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 48,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "round": 70,
+      "title": "제70회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "70회 한국사_정답지(심화).pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 4,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 5,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 7,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 10,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 11,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 12,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 13,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 14,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 15,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 17,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 18,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 20,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 23,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 25,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 26,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 28,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 31,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 32,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 34,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 35,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 36,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 37,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 38,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 40,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 41,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 42,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 43,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 46,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 47,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 48,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "round": 71,
+      "title": "제71회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "제71회 심화 정답표.pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 4,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 5,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 7,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 8,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 9,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 11,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 12,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 13,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 14,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 15,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 17,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 18,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 19,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 20,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 25,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 26,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 28,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 29,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 30,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 31,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 32,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 34,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 36,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 37,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 38,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 41,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 42,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 43,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 46,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 48,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 49,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 2,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "round": 72,
+      "title": "제72회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "제72회 심화 정답표.pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 5,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 7,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 12,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 13,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 14,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 15,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 17,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 18,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 20,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 24,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 25,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 26,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 28,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 31,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 32,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 33,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 34,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 36,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 37,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 38,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 41,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 42,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 43,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 44,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 48,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 2,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "round": 73,
+      "title": "제73회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "73회 심화 정답표.pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 3,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 5,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 7,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 8,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 10,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 12,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 13,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 14,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 15,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 17,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 18,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 20,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 25,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 26,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 27,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 28,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 31,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 32,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 33,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 34,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 36,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 37,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 38,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 41,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 42,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 43,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 44,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 48,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 49,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "round": 74,
+      "title": "제74회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "74회 심화 정답표.pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 5,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 7,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 10,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 11,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 12,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 13,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 14,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 15,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 17,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 18,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 20,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 23,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 25,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 26,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 27,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 28,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 29,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 31,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 32,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 34,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 35,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 36,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 37,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 38,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 41,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 42,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 43,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 44,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 46,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 48,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "round": 75,
+      "title": "제75회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "제75회 심화 정답표.pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 5,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 7,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 12,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 13,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 14,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 15,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 17,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 18,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 20,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 23,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 25,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 26,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 28,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 29,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 30,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 31,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 32,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 34,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 35,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 36,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 37,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 38,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 39,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 41,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 42,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 43,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 45,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 48,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 49,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 50,
+          "answer": 3,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "round": 76,
+      "title": "제76회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "76회 한국사_답지(심화)).pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 5,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 7,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 10,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 11,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 12,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 13,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 14,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 15,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 16,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 17,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 18,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 19,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 20,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 24,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 25,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 26,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 28,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 29,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 31,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 32,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 34,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 35,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 36,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 37,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 38,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 41,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 42,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 43,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 45,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 46,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 47,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 48,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "round": 77,
+      "title": "제77회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "77회 한국사_답지(심화).pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 5,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 7,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 11,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 12,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 13,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 14,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 15,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 16,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 17,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 18,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 19,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 20,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 21,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 25,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 26,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 28,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 29,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 31,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 32,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 34,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 35,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 36,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 37,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 38,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 41,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 42,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 43,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 45,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 46,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 48,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 2,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "round": 78,
+      "title": "제78회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "78회 한국사_답지(심화).pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 3,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 5,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 6,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 7,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 8,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 11,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 12,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 13,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 14,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 15,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 17,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 18,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 20,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 21,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 22,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 24,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 25,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 26,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 27,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 28,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 31,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 32,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 34,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 35,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 36,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 37,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 38,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 41,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 42,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 43,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 46,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 48,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 4,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "round": 79,
+      "title": "제79회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "79회 한국사_답지(심화).pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 3,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 5,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 6,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 7,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 8,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 9,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 11,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 12,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 13,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 14,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 15,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 2,
+          "points": 1
+        },
+        {
+          "num": 17,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 18,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 19,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 20,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 22,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 23,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 25,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 26,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 28,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 29,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 31,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 32,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 34,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 35,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 36,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 37,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 38,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 41,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 42,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 43,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 45,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 46,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 48,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 50,
+          "answer": 2,
+          "points": 3
+        }
+      ]
+    },
+    {
+      "round": 80,
+      "title": "제80회 한국사능력검정시험 심화",
+      "level": "advanced",
+      "questionCount": 50,
+      "totalPoints": 100,
+      "sourceAnswerFile": "80회 한국사_답지(심화).pdf",
+      "questions": [
+        {
+          "num": 1,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 2,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 3,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 4,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 5,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 6,
+          "answer": 1,
+          "points": 3
+        },
+        {
+          "num": 7,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 8,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 9,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 10,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 11,
+          "answer": 0,
+          "points": 3
+        },
+        {
+          "num": 12,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 13,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 14,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 15,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 16,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 17,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 18,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 19,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 20,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 21,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 22,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 23,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 24,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 25,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 26,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 27,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 28,
+          "answer": 4,
+          "points": 1
+        },
+        {
+          "num": 29,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 30,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 31,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 32,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 33,
+          "answer": 4,
+          "points": 3
+        },
+        {
+          "num": 34,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 35,
+          "answer": 1,
+          "points": 1
+        },
+        {
+          "num": 36,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 37,
+          "answer": 2,
+          "points": 3
+        },
+        {
+          "num": 38,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 39,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 40,
+          "answer": 4,
+          "points": 2
+        },
+        {
+          "num": 41,
+          "answer": 3,
+          "points": 1
+        },
+        {
+          "num": 42,
+          "answer": 3,
+          "points": 2
+        },
+        {
+          "num": 43,
+          "answer": 0,
+          "points": 2
+        },
+        {
+          "num": 44,
+          "answer": 0,
+          "points": 1
+        },
+        {
+          "num": 45,
+          "answer": 1,
+          "points": 2
+        },
+        {
+          "num": 46,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 47,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 48,
+          "answer": 2,
+          "points": 2
+        },
+        {
+          "num": 49,
+          "answer": 3,
+          "points": 3
+        },
+        {
+          "num": 50,
+          "answer": 4,
+          "points": 3
+        }
+      ]
+    }
+  ]
+}
