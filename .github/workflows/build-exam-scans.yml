@@ -29,13 +29,15 @@ jobs:
       - name: Render original exam papers to page images
         run: python scripts/build_exam_scans.py
       - name: Commit scanned page assets
+        id: publish
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add scans/
           if ! git diff --cached --quiet; then
             git commit -m "Publish official exam scan pages for in-app answering"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           else
             echo "No scan changes"
           fi
@@ -45,11 +47,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          PUBLISH_RESULT: ${{ steps.publish.outcome }}
         run: |
           if [ -f scans/index.json ]; then
             python -c 'import json;x=json.load(open("scans/index.json"));print("Completed rounds: "+str(list(x["scannedPages"])));print("Failures: "+str(x["failures"]))' > /tmp/scan-report.txt
           else
             echo 'Scan job failed before producing page images.' > /tmp/scan-report.txt
           fi
+          echo "GitHub upload outcome: $PUBLISH_RESULT" >> /tmp/scan-report.txt
           gh issue comment "$ISSUE_NUMBER" --body-file /tmp/scan-report.txt
           gh issue close "$ISSUE_NUMBER" --reason completed
