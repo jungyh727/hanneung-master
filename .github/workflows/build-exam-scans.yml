@@ -1,0 +1,37 @@
+name: Build Korean history exam scan pages
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/build-exam-scans.yml'
+      - 'scripts/build_exam_scans.py'
+
+permissions:
+  contents: write
+
+jobs:
+  scans:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pymupdf Pillow requests
+      - name: Render original exam papers to page images
+        run: python scripts/build_exam_scans.py
+      - name: Commit scanned page assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scans/
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish official exam scan pages for in-app answering"
+            git push
+          else
+            echo "No scan changes"
+          fi
