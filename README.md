@@ -7,7 +7,7 @@
 1. GitHub 계정을 만듭니다.
 2. 새 **Public** 저장소를 만들고 이 폴더 내 파일(`index.html`, `app.js`, `bank.json`, `manifest.webmanifest`, `sw.js`, 두 PNG)을 저장소 최상위에 업로드합니다.
 3. 저장소 **Settings → Pages → Build and deployment → Deploy from a branch → main /(root) → Save**를 선택합니다.
-4. GitHub Pages에서 제공하는 `https://계정.github.io/저장소/` 주소를 여자친구에게 전송합니다.
+4. GitHub Pages에서 제공하는 `https://계정.github.io/저장소/` 주소를 다른사람에게 전송합니다.
 5. **아이폰 Safari**에서 해당 주소를 열고 **공유 → 홈 화면에 추가**를 누릅니다. 홈 화면의 아이콘으로 실행합니다.
 
 ## PDF → 문제은행
