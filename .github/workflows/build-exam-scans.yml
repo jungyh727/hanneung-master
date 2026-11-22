@@ -8,6 +8,10 @@ on:
       - '.github/workflows/build-exam-scans.yml'
       - 'scripts/build_exam_scans.py'
 
+concurrency:
+  group: build-exam-scans
+  cancel-in-progress: true
+
 permissions:
   contents: write
   issues: write
