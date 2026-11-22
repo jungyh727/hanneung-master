@@ -1,0 +1,1 @@
+GitHub connector write permission check on 2026-11-22. This temporary file can be deleted.
